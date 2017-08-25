@@ -5,8 +5,9 @@ The final product is a python function; inputting necessary parameters of the ou
 
 ## The First Product 
 A simulated patch of sky
-- 3 x 3 degree^2
+- 2 x 2 degree^2
 - 4 bands 
+- A catalog with IDs, Magnitudes, and Redshifts of the pinned galaxies.
 - ...
 
 ## Code Example
