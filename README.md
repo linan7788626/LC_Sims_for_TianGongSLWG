@@ -4,8 +4,10 @@ We are going to create source light-cones by using the images of COSMOS galaxies
 The final product is a python function; inputting necessary parameters of the output light cone, one can generate a simulated light cone just by one hit.
 
 ## The First Product 
+
+![](./ds9.jpeg)
 A simulated patch of sky
-- 2 x 2 degree^2
+- 1 x 1 degree^2
 - 4 bands 
 - A catalog with IDs, Magnitudes, and Redshifts of the pinned galaxies.
 - ...
